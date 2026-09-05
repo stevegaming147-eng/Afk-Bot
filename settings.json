@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "chaosmc.mcsh.io",
+    "port": 24280,
+    "version": "1.21.11"
   },
 
   "position": {
@@ -49,7 +49,7 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is pearace_ ",
         "I want be alone ",
         "Visit my GitHub page! (urFate/Afk-Bot)"
       ]
