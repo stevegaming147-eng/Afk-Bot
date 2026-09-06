@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "chaosmc.mcsh.io",
-    "port": 24280,
+    "ip": "orangemc.mcsh.io",
+    "port": 11373,
     "version": "1.21.11"
   },
 
